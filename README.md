@@ -1,1 +1,1 @@
-# stayinsync.github.io
+# https://stayinsync.github.io/
